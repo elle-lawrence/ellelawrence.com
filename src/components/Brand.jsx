@@ -75,6 +75,9 @@ export default function SimpleSlider() {
         <li className="item">
           <img src="assets/img/partners/15.png" alt="partners brand" />
         </li>
+        <li className="item">
+          <img src="assets/img/partners/16.png" alt="partners brand" />
+        </li>
       </Slider>
     </ul>
   );
