@@ -54,6 +54,30 @@ export default function SimpleSlider() {
         <li className="item">
           <img src="assets/img/partners/8.png" alt="partners brand" />
         </li>
+        <li className="item">
+          <img src="assets/img/partners/9.png" alt="partners brand" />
+        </li>
+        <li className="item">
+          <img src="assets/img/partners/10.png" alt="partners brand" />
+        </li>
+        <li className="item">
+          <img src="assets/img/partners/11.png" alt="partners brand" />
+        </li>
+        <li className="item">
+          <img src="assets/img/partners/12.png" alt="partners brand" />
+        </li>
+        <li className="item">
+          <img src="assets/img/partners/13.png" alt="partners brand" />
+        </li>
+        <li className="item">
+          <img src="assets/img/partners/14.png" alt="partners brand" />
+        </li>
+        <li className="item">
+          <img src="assets/img/partners/15.png" alt="partners brand" />
+        </li>
+        <li className="item">
+          <img src="assets/img/partners/16.png" alt="partners brand" />
+        </li>
       </Slider>
     </ul>
   );
